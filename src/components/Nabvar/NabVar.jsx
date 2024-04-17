@@ -1,6 +1,9 @@
 const NabVar = () => {
   return (
-    <div>NabVar</div>
+    <div>
+      <p>Mi boletera</p>
+      <input placeholder="busca tu evento favorito"/>
+    </div>
   )
 }
 
